@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "better:coal_sword",
+      "category": "combat"
+    },
+    "components": {
+      "minecraft:icon": "coal_sword",
+      "minecraft:damage": 5.5,
+      "minecraft:durability": {
+        "max_durability": 292
+      },
+      "minecraft:cooldown": 12
+    }
+  }
+}
