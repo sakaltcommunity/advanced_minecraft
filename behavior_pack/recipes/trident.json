@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "custom:trident"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " II",
+      " CI",
+      "S  "
+    ],
+    "key": {
+      "I": {
+        "item": "minecraft:iron_sword"
+      },
+      "C": {
+        "item": "minecraft:prismarine_crystals"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "minecraft:trident",
+      "count": 1
+    }
+  }
+}
