@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "better:emerald_sword",
+      "category": "combat"
+    },
+    "components": {
+      "minecraft:icon": "emerald_sword",
+      "minecraft:damage": 9,
+      "minecraft:durability": {
+        "max_durability": 1200
+      },
+      "minecraft:cooldown": 12
+    }
+  }
+}
