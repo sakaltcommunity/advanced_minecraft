@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "better:onyx_sword",
+      "category": "combat"
+    },
+    "components": {
+      "minecraft:icon": "onyx_sword",
+      "minecraft:damage": 8.5,
+      "minecraft:durability": {
+        "max_durability": 2208
+      },
+      "minecraft:cooldown": 12
+    }
+  }
+}
