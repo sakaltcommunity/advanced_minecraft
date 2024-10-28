@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "better:emerald_pickaxe",
+      "category": "tools"
+    },
+    "components": {
+      "minecraft:icon": "emerald_pickaxe",
+      "minecraft:damage": 7,
+      "minecraft:durability": {
+        "max_durability": 1200
+      },
+      "minecraft:mining_speed": 10,
+      "minecraft:effective_blocks": [
+        "stone",
+        "iron_ore",
+        "gold_ore",
+        "diamond_ore"
+      ]
+    }
+  }
+}
