@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "custom:elytra"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "P P",
+      "P P",
+      "P P"
+    ],
+    "key": {
+      "P": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "result": {
+      "item": "minecraft:elytra",
+      "count": 1
+    }
+  }
+}
