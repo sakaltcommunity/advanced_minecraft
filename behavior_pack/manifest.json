@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Advanced Minecraft Addon",
+    "name": "アドバンスドマインクラフトアドオン",
+    "uuid": "de4c9f80-458d-44f8-9b9a-799f4b0d1d26",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "Advanced Minecraft Addon - Resources",
+      "type": "resources",
+      "uuid": "8306b1b1-c0a7-4748-9b56-d0ec9b9a9a8a",
+      "version": [1, 0, 0]
+    },
+    {
+      "description": "Advanced Minecraft Addon - Data",
+      "type": "data",
+      "uuid": "f82c81c8-8e2d-4fc6-b27f-4cf62f3a4e4e",
+      "version": [1, 0, 0]
+    }
+  ]
+}
