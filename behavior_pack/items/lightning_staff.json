@@ -1,0 +1,29 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "better:lightning_staff",
+      "category": "misc"
+    },
+    "components": {
+      "minecraft:durability": {
+        "max_durability": 667
+      },
+      "minecraft:display_name": {
+        "value": "雷の杖"
+      },
+      "minecraft:use_duration": 6,
+      "minecraft:on_use": {
+        "event": "lightning_event",
+        "target": "self"
+      }
+    },
+    "events": {
+      "lightning_event": {
+        "run_command": {
+          "command": "function summon_lightning"
+        }
+      }
+    }
+  }
+}
