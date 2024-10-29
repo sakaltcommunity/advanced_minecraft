@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "better:rapis_sword",
+      "category": "combat"
+    },
+    "components": {
+      "minecraft:icon": "rapis_sword",
+      "minecraft:damage": 6.5,
+      "minecraft:durability": {
+        "max_durability": 1561
+      },
+      "minecraft:cooldown": 12
+      "minecraft:enchantable": {
+        "value": 12,
+        "slot": "sword"
+      }
+    }
+  }
+}
