@@ -3,14 +3,14 @@
   "header": {
     "description": "Advanced Minecraft Addon - Resources",
     "name": "アドバンスドマインクラフトアドオン - リソース",
-    "uuid": "123e4567-e89b-12d3-a456-426614174000",
+    "uuid": "f6f9d5e7-1baf-4c2c-934b-83ccff9d5c88",
     "version": [1, 0, 0]
   },
   "modules": [
     {
       "description": "Advanced Minecraft Addon - Textures",
       "type": "data",
-      "uuid": "987e6543-e21b-12d3-a456-426614174001",
+      "uuid": "c77e1e15-f82d-487e-b9cc-378e7a3b4886",
       "version": [1, 0, 0]
     }
   ]
