@@ -3,14 +3,14 @@
   "header": {
     "description": "Advanced Minecraft Addon - Resources",
     "name": "アドバンスドマインクラフトアドオン - リソース",
-    "uuid": "123e4567-e89b-12d3-a456-426614174000",  // ランダムなUUID
+    "uuid": "123e4567-e89b-12d3-a456-426614174000",
     "version": [1, 0, 0]
   },
   "modules": [
     {
       "description": "Advanced Minecraft Addon - Textures",
       "type": "data",
-      "uuid": "987e6543-e21b-12d3-a456-426614174001",  // ランダムなUUID
+      "uuid": "987e6543-e21b-12d3-a456-426614174001",
       "version": [1, 0, 0]
     }
   ]
