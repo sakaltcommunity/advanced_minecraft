@@ -11,7 +11,11 @@
       "minecraft:durability": {
         "max_durability": 1200
       },
-      "minecraft:cooldown": 12
+      "minecraft:cooldown": 12,
+      "minecraft:enchantable": {
+        "value": 10,  // エンチャントのしやすさ
+        "slot": "sword"
+      }
     }
   }
 }
