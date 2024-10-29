@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "better:fire_saber",
+      "category": "combat"
+    },
+    "components": {
+      "minecraft:icon": "fire_saber",
+      "minecraft:damage": 8,
+      "minecraft:durability": {
+        "max_durability": 2192
+      },
+      "minecraft:cooldown": 8,
+      "minecraft:enchantable": {
+        "value": 7,
+        "slot": "sword"
+      }
+    }
+  }
+}
