@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "custom:stone_bow",
+      "category": "combat"
+    },
+    "components": {
+      "minecraft:icon": "stone_bow",
+      "minecraft:use_duration": 20,
+      "minecraft:display_name": "石の弓",
+      "minecraft:durability": {
+        "max_durability": 384
+      },
+      "minecraft:damage": {
+        "range": [4, 10]
+      },
+      "minecraft:enchantable": {
+        "value": 15,
+        "slot": "bow"
+      }
+    }
+  }
+}
