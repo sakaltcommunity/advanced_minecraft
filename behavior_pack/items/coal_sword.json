@@ -12,6 +12,10 @@
         "max_durability": 292
       },
       "minecraft:cooldown": 12
+      "minecraft:enchantable": {
+        "value": 19,
+        "slot": "sword"
+      }
     }
   }
 }
