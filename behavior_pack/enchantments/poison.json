@@ -1,5 +1,5 @@
 {
-  "format_version": "1.10",
+  "format_version": "1.21",
   "minecraft:enchantment": {
     "description": {
       "identifier": "better:poison",
