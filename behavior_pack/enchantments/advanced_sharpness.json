@@ -1,0 +1,27 @@
+{
+  "format_version": "1.21",
+  "minecraft:enchantment": {
+    "description": {
+      "identifier": "better:advanced_sharpness",
+      "is_ambiguous": false,
+      "is_curse": false,
+      "enchantment_type": "weapon",
+      "max_level": 3,
+      "name": "アドバンスドシャープネス"
+    },
+    "effects": [
+      {
+        "effect": "minecraft:damage_boost",
+        "amplifier": 0
+      },
+      {
+        "effect": "minecraft:damage_boost",
+        "amplifier": 1
+      },
+      {
+        "effect": "minecraft:damage_boost",
+        "amplifier": 2
+      }
+    ]
+  }
+}@
