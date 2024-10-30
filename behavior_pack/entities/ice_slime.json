@@ -1,0 +1,42 @@
+{
+  "format_version": "1.21",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "better:ice_slime",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_mob": true,
+      "min_spawn_delay": 100,
+      "max_spawn_delay": 400,
+      "max_health": 10,
+      "movement_type": "walk",
+      "loot": "loot_tables/entities/ice_slime.json",
+      "textures": [
+        "textures/entities/ice_slime.png"
+      ],
+      "models": {
+        "default": "resource_pack/models/ice_slime.json"
+      },
+      "scale": 1.0
+    },
+    "components": {
+      "minecraft:health": {
+        "value": 10
+      },
+      "minecraft:movement": {
+        "value": 0.5
+      },
+      "minecraft:collision_box": {
+        "width": 1.0,
+        "height": 1.0
+      },
+      "minecraft:entity_sensor": {
+        "sensor_radius": 16
+      },
+      "minecraft:attack": {
+        "damage": 4,
+        "attack_interval": 1
+      }
+    }
+  }
+}
