@@ -37,6 +37,20 @@
         "damage": 4,
         "attack_interval": 1
       }
+    },
+    "minecraft:spawn_rules": {
+      "can_spawn": {
+        "biomes": [
+          "snowy_tundra",
+          "snowy_mountains"
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:random_chance",
+            "chance": 0.5
+          }
+        ]
+      }
     }
   }
 }
